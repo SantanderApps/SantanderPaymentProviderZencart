@@ -26,7 +26,7 @@ If you have any questions concerning your account with Santander, i.e. certifica
 ## Technical Issues - Consid S5
 If you have any issues installing the module, please [contact Santander's IT partner Consid S5](http://santander.consid.se/site/contact?department=1).
 
-## About the e-commerce platform: osCommerce
+## About the e-commerce platform: Zen Cart
 > Zen Cart® truly is the art of e-commerce; free, user-friendly, open source shopping cart software. The ecommerce web site design program is developed by a group of like-minded shop owners, programmers, designers, and consultants that think ecommerce web design could be, and should be, done differently.
 
 [Zen Cart homepage](https://www.zen-cart.com)
