@@ -1,12 +1,11 @@
 # Santander Payment Gateway: Zen Cart
 
 ## Description
-This module integrate Santander Consumer Bank's payment service into Zen Cart.
-With this module you can offer your customers to pay with Santander Consumer Bank.
+Santander’s Zen Cart payment gateway module supports customer credit applications with Santander Consumer Bank Services.
 
 ## Current version
 * Version: 1.0.0zc
-* Release date: 2015-08-21
+* Release date: 2015-08-28
 * Platform: osCommerce 1.5.4
 
 ## Requirements
@@ -17,16 +16,15 @@ With this module you can offer your customers to pay with Santander Consumer Ban
 * libxml [http://php.net/manual/en/book.libxml.php](http://php.net/manual/en/book.libxml.php)
 
 ## Documentation
-Documentation and more examples can be found in
-[the docs folder](./docs).
+Installation instructions and any other supporting documentation are located in [the docs folder](./docs) folder that accompanies the download.
 
 ## Account Setup - Santander
-If you have any questions concerning your account with Santander, i.e. certificate, shop ID, marchant ID, password etc, please [contact Santander](http://santander.consid.se/site/contact?department=2).
+If you have any questions concerning your account details: Shop ID, merchant ID, password etc. please contact Santander [by clicking here](http://santander.consid.se/site/contact?department=2).
 
-## Technical Issues - Consid S5
-If you have any issues installing the module, please [contact Santander's IT partner Consid S5](http://santander.consid.se/site/contact?department=1).
+## Technical Issues - Consid
+If you have any issues installing the module, please contact Santander’s payment gateway IT services partner [by clicking here](http://santander.consid.se/site/contact?department=1).
 
 ## About the e-commerce platform: Zen Cart
-> Zen Cart® truly is the art of e-commerce; free, user-friendly, open source shopping cart software. The ecommerce web site design program is developed by a group of like-minded shop owners, programmers, designers, and consultants that think ecommerce web design could be, and should be, done differently.
+> Zen Cart is an e-commerce and online store-management software program. It can be used on any web server that has PHP and MySQL installed. It is available as free software under the GNU General Public License. Zen Cart branched from osCommerce as a separate project in 2003.
 
 [Zen Cart homepage](https://www.zen-cart.com)
