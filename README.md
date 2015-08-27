@@ -24,7 +24,7 @@ If you have any questions concerning your account details: Shop ID, merchant ID,
 ## Technical Issues - Consid
 If you have any issues installing the module, please contact Santander’s payment gateway IT services partner [by clicking here](http://santander.consid.se/site/contact?department=1).
 
-## About the e-commerce platform: Zen Cart
+## About: Zen Cart
 > Zen Cart is an e-commerce and online store-management software program. It can be used on any web server that has PHP and MySQL installed. It is available as free software under the GNU General Public License. Zen Cart branched from osCommerce as a separate project in 2003.
 
 [Zen Cart homepage](https://www.zen-cart.com)
