@@ -5,7 +5,7 @@ Santander’s Zen Cart payment gateway module supports customer credit applicati
 
 ## Current version
 * Version: 1.0.0zc
-* Release date: 2015-08-28
+* Release date: 2015-09-19
 * Platform: osCommerce 1.5.4
 
 ## Requirements
