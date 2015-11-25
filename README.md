@@ -4,11 +4,16 @@
 Santander’s Zen Cart payment gateway module supports customer credit applications with Santander Consumer Bank Services.
 
 ## Current version
-* Version: 1.0.1zc
-* Release date: 2015-11-24
+* Version: 1.0.2zc
+* Release date: 2015-11-25
 * Platform: osCommerce 1.5.4
 
 ## Changelog ##
+
+### v 1.0.2zc ###
+* Opt-out external log access
+* Installation date is saved in database
+* Removed certificate
 
 ### v 1.0.1zc ###
 * Removed: Santander\base\sendAndDeletePreviousLog() have never been used and is now removed.
